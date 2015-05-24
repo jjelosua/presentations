@@ -2,7 +2,7 @@ Local web server
 ================
 
 ## Requirements
-* Have [_nodejs_](https://nodejs.org/)
+* Have [_nodejs_](https://nodejs.org/) and [_gulp_](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 
 ## Run local
 1. Go to the server folder
