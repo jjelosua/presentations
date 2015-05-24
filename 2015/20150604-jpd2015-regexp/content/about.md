@@ -1,6 +1,7 @@
-# ¿Quién soy?
 
+# ¿Quién soy? <!-- .slide: data-background="#ff0000" -->
 
+[slide-sep]
 
 ## Juan Elosua Tomé (Twitter: @jjelosua)
 
@@ -8,12 +9,14 @@ Ingeniero de Telecomunicaciones que trabaja como desarrollador con experiencia e
 
 Note: La descripción de cada uno de los proyectos en vertical
 
+[vertical-sep]
 
 ## Indultometro
 
-Lorem ipsum
+* Lorem ipsum <!-- .element: class="fragment" data-fragment-index="1" -->
+* Lorem ipsum 2 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-## España en llamas
+## España en llamas 
 
 Lorem ipsum
 
