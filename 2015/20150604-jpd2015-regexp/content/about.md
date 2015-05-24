@@ -1,4 +1,3 @@
-
 # ¿Quién soy? <!-- .slide: data-background="#ff0000" -->
 
 [slide-sep]
