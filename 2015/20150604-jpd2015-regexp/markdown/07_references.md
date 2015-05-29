@@ -1,16 +1,5 @@
-# ¿Quién soy? <!-- .slide: data-background="#ff0000" -->
+## Conclusiones - Expresiones Regulares
 
-[slide-sep]
-
-## Juan Elosua Tomé (Twitter: @jjelosua)
-
-Ingeniero de Telecomunicaciones que trabaja como desarrollador con experiencia en análisis y visualizaciones de datos. 2015 Knight-Mozilla Fellow
-
-Note: La descripción de cada uno de los proyectos en vertical
-
-[vertical-sep]
-
-## Indultometro
-
-* Lorem ipsum <!-- .element: class="fragment" data-fragment-index="1" -->
-* Lorem ipsum 2 <!-- .element: class="fragment" data-fragment-index="2" -->
+* Las expresiones regulares son una herramienta muy útil para el procesado de textos.
+* Es un paquete que se incluye en la práctica totalidad de los lenguajes de programación.
+* También pueden ser usados en editores de texto y otros softwares comerciales.

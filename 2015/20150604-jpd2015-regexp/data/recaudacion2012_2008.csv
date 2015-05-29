@@ -1,0 +1,261 @@
+﻿_num,_widgetName,_source,_resultNumber,_pageUrl,ranking,provincia,espectadores,salas,recaudacion
+1,CineRecProv,CineRecProv,1,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,1,Madrid,18.909.903,543,136.060.06830 €
+53,CineRecProv,CineRecProv,1,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,1,Madrid,22.499.481,598,138.085.15045 €
+105,CineRecProv,CineRecProv,1,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,1,Madrid,23.357.429,556,153.073.06192 €
+157,CineRecProv,CineRecProv,1,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,1,Madrid,20.390.724,549,141.707.84434 €
+209,CineRecProv,CineRecProv,1,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,1,Madrid,21.169.620,570,148.964.80027 €
+2,CineRecProv,CineRecProv,2,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,2,Barcelona,14.424.036,522,100.016.86152 €
+54,CineRecProv,CineRecProv,2,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,2,Barcelona,17.317.829,513,108.518.66243 €
+106,CineRecProv,CineRecProv,2,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,2,Barcelona,17.473.873,511,115.494.83593 €
+158,CineRecProv,CineRecProv,2,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,2,Barcelona,15.324.891,535,104.975.23534 €
+210,CineRecProv,CineRecProv,2,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,2,Barcelona,15.584.933,523,109.014.95419 €
+3,CineRecProv,CineRecProv,3,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,3,Valencia,5.860.124,219,37.033.30360 €
+55,CineRecProv,CineRecProv,3,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,3,Valencia,7.054.177,238,40.004.95126 €
+107,CineRecProv,CineRecProv,3,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,3,Valencia,7.176.703,226,42.707.06465 €
+159,CineRecProv,CineRecProv,3,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,3,Valencia,6.151.458,215,38.624.00822 €
+211,CineRecProv,CineRecProv,3,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,3,Valencia,6.555.815,225,41.464.27919 €
+4,CineRecProv,CineRecProv,4,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,4,ALICANTE,3.867.044,205,22.760.43405 €
+56,CineRecProv,CineRecProv,4,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,4,Alicante,4.557.515,220,24.483.88294 €
+108,CineRecProv,CineRecProv,4,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,4,Alicante,4.604.161,212,25.800.66294 €
+160,CineRecProv,CineRecProv,4,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,4,ALICANTE,4.007.823,197,23.702.12159 €
+212,CineRecProv,CineRecProv,4,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,4,Alicante,4.188.137,206,24.874.21811 €
+5,CineRecProv,CineRecProv,5,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,5,Málaga,3.466.327,165,22.424.68040 €
+57,CineRecProv,CineRecProv,5,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,5,Málaga,4.045.444,175,23.122.17256 €
+109,CineRecProv,CineRecProv,5,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,5,Málaga,3.942.199,175,24.527.78263 €
+161,CineRecProv,CineRecProv,5,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,5,Málaga,3.489.373,174,23.256.59210 €
+213,CineRecProv,CineRecProv,5,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,5,Málaga,3.611.480,174,24.304.29982 €
+6,CineRecProv,CineRecProv,6,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,6,SEVILLA,3.369.454,154,20.943.86818 €
+58,CineRecProv,CineRecProv,6,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,6,Sevilla,3.866.836,168,20.404.27280 €
+110,CineRecProv,CineRecProv,6,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,6,Sevilla,3.480.951,166,19.685.30550 €
+162,CineRecProv,CineRecProv,6,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,6,SEVILLA,3.513.595,163,22.057.26606 €
+214,CineRecProv,CineRecProv,6,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,6,Sevilla,3.668.749,167,22.871.19202 €
+7,CineRecProv,CineRecProv,7,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,7,Murcia,2.731.074,145,16.739.31811 €
+59,CineRecProv,CineRecProv,7,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,7,Islas Baleares,2.978.100,98,16.762.51809 €
+111,CineRecProv,CineRecProv,7,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,7,Murcia,3.123.841,142,17.695.28370 €
+163,CineRecProv,CineRecProv,7,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,7,Murcia,2.870.957,147,17.511.13846 €
+215,CineRecProv,CineRecProv,7,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,7,Murcia,2.933.378,138,17.783.66401 €
+8,CineRecProv,CineRecProv,8,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,8,Vizcaya,2.529.724,96,16.161.82159 €
+60,CineRecProv,CineRecProv,8,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,8,Murcia,2.990.978,144,15.927.42855 €
+112,CineRecProv,CineRecProv,8,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,8,Vizcaya,2.852.058,108,17.213.19318 €
+164,CineRecProv,CineRecProv,8,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,8,Islas Baleares,2.688.575,93,16.344.80977 €
+216,CineRecProv,CineRecProv,8,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,8,Vizcaya,2.687.357,118,17.159.14254 €
+9,CineRecProv,CineRecProv,9,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,9,Islas Baleares,2.528.073,90,15.541.61468 €
+61,CineRecProv,CineRecProv,9,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,9,Vizcaya,2.761.602,110,15.560.65938 €
+113,CineRecProv,CineRecProv,9,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,9,Islas Baleares,2.555.544,96,15.091.54167 €
+165,CineRecProv,CineRecProv,9,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,9,Vizcaya,2.546.616,106,16.054.28662 €
+217,CineRecProv,CineRecProv,9,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,9,Islas Baleares,2.749.661,97,16.989.88187 €
+10,CineRecProv,CineRecProv,10,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,10,Las Palmas,2.407.868,79,13.914.36434 €
+62,CineRecProv,CineRecProv,10,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,10,Las Palmas,2.385.528,80,13.174.26806 €
+114,CineRecProv,CineRecProv,10,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,10,Gerona,2.252.530,93,14.293.48954 €
+166,CineRecProv,CineRecProv,10,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,10,Las Palmas,2.360.249,82,14.213.82087 €
+218,CineRecProv,CineRecProv,10,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,10,Las Palmas,2.224.043,93,13.737.26646 €
+11,CineRecProv,CineRecProv,11,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,11,Zaragoza,2.213.271,91,13.151.25639 €
+63,CineRecProv,CineRecProv,11,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,11,Gerona,2.214.682,92,13.144.61815 €
+115,CineRecProv,CineRecProv,11,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,11,Las Palmas,2.379.281,86,14.237.95100 €
+167,CineRecProv,CineRecProv,11,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,11,Zaragoza,2.276.402,80,13.574.78039 €
+219,CineRecProv,CineRecProv,11,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,11,Zaragoza,2.242.428,80,13.611.38712 €
+12,CineRecProv,CineRecProv,12,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,12,Cádiz,2.205.297,121,13.057.22631 €
+64,CineRecProv,CineRecProv,12,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,12,Cádiz,2.634.755,127,12.651.19460 €
+116,CineRecProv,CineRecProv,12,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,12,Zaragoza,2.317.569,79,13.989.72390 €
+168,CineRecProv,CineRecProv,12,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,12,Cádiz,2.295.422,123,13.330.98439 €
+220,CineRecProv,CineRecProv,12,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,12,Cádiz,2.414.490,127,13.427.80537 €
+13,CineRecProv,CineRecProv,13,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,13,A Coruña,1.815.631,93,11.879.80429 €
+65,CineRecProv,CineRecProv,13,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,13,Tarragona,1.919.162,110,11.633.01484 €
+117,CineRecProv,CineRecProv,13,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,13,Cádiz,2.647.700,127,13.541.62602 €
+169,CineRecProv,CineRecProv,13,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,13,Girona,1.883.041,92,12.467.97289 €
+221,CineRecProv,CineRecProv,13,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,13,Gerona,1.942.116,91,12.942.64382 €
+14,CineRecProv,CineRecProv,14,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,14,Tarragona,1.706.166,113,11.438.92352 €
+66,CineRecProv,CineRecProv,14,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,14,Santa Cruz de Tenerife,1.953.142,72,11.227.05378 €
+118,CineRecProv,CineRecProv,14,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,14,Tarragona,1.988.930,121,12.680.51449 €
+170,CineRecProv,CineRecProv,14,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,14,Tarragona,1.824.625,113,12.111.02664 €
+222,CineRecProv,CineRecProv,14,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,14,Tarragona,1.872.363,115,12.647.81840 €
+15,CineRecProv,CineRecProv,15,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,15,Girona,1.624.170,91,10.902.82226 €
+67,CineRecProv,CineRecProv,15,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,15,Zaragoza,1.886.736,51,10.951.09938 €
+119,CineRecProv,CineRecProv,15,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,15,La Coruña,2.003.592,74,12.167.20965 €
+171,CineRecProv,CineRecProv,15,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,15,A Coruña,1.787.499,85,11.788.92371 €
+223,CineRecProv,CineRecProv,15,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,15,La Coruña,1.794.507,73,12.021.37207 €
+16,CineRecProv,CineRecProv,16,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,16,Santa Cruz de Tenerife,1.707.721,66,10.616.68089 €
+68,CineRecProv,CineRecProv,16,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,16,La Coruña,1.880.593,66,10.516.03525 €
+120,CineRecProv,CineRecProv,16,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,16,Santa Cruz de Tenerife,1.881.904,68,11.623.46964 €
+172,CineRecProv,CineRecProv,16,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,16,Santa Cruz de Tenerife,1.713.010,68,11.150.45239 €
+224,CineRecProv,CineRecProv,16,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,16,Santa Cruz de Tenerife,1.710.160,68,11.495.19269 €
+17,CineRecProv,CineRecProv,17,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,17,Asturias,1.558.261,76,10.472.75803 €
+69,CineRecProv,CineRecProv,17,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,17,Asturias,1.759.829,76,10.303.58536 €
+121,CineRecProv,CineRecProv,17,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,17,Asturias,1.802.864,76,11.316.41090 €
+173,CineRecProv,CineRecProv,17,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,17,Asturias,1.635.164,76,10.884.87529 €
+225,CineRecProv,CineRecProv,17,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,17,Asturias,1.600.597,76,10.818.23650 €
+18,CineRecProv,CineRecProv,18,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,18,Guipúzcoa,1.569.484,76,9.804.60584 €
+70,CineRecProv,CineRecProv,18,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,18,Guipúzcoa,1.565.314,71,9.092.53301 €
+122,CineRecProv,CineRecProv,18,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,18,Granada,1.914.982,61,10.276.69900 €
+174,CineRecProv,CineRecProv,18,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,18,Granada,1.661.555,53,9.598.30194 €
+226,CineRecProv,CineRecProv,18,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,18,Granada,1.746.943,52,10.116.95011 €
+19,CineRecProv,CineRecProv,19,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,19,Granada,1.604.914,59,9.348.32392 €
+71,CineRecProv,CineRecProv,19,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,19,Granada,1.742.003,48,8.686.32890 €
+123,CineRecProv,CineRecProv,19,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,19,Guipúzcoa,1.624.529,71,9.760.80610 €
+175,CineRecProv,CineRecProv,19,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,19,Pontevedra,1.298.712,62,8.691.16743 €
+227,CineRecProv,CineRecProv,19,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,19,Guipúzcoa,1.565.561,75,9.930.26018 €
+20,CineRecProv,CineRecProv,20,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,20,Pontevedra,1.318.646,62,8.840.79592 €
+72,CineRecProv,CineRecProv,20,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,20,Navarra,1.527.216,75,8.485.47344 €
+124,CineRecProv,CineRecProv,20,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,20,Pontevedra,1.488.812,65,9.156.34945 €
+176,CineRecProv,CineRecProv,20,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,20,Guipúzcoa,1.381.834,79,8.616.05242 €
+228,CineRecProv,CineRecProv,20,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,20,Navarra,1.429.950,76,9.109.58150 €
+21,CineRecProv,CineRecProv,21,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,21,Navarra,1.364.101,76,8.552.13917 €
+73,CineRecProv,CineRecProv,21,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,21,Pontevedra,1.424.027,68,8.165.49070 €
+125,CineRecProv,CineRecProv,21,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,21,Navarra,1.526.099,75,8.982.18649 €
+177,CineRecProv,CineRecProv,21,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,21,Navarra,1.322.421,78,8.150.73880 €
+229,CineRecProv,CineRecProv,21,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,21,Pontevedra,1.301.423,64,8.915.26700 €
+22,CineRecProv,CineRecProv,22,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,22,Valladolid,1.059.744,65,6.449.03744 €
+74,CineRecProv,CineRecProv,22,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,22,Valladolid,1.305.488,70,6.685.37610 €
+126,CineRecProv,CineRecProv,22,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,22,Valladolid,1.259.870,70,6.688.22180 €
+178,CineRecProv,CineRecProv,22,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,22,Cantabria,1.106.634,37,6.380.54901 €
+230,CineRecProv,CineRecProv,22,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,22,Valladolid,1.180.623,56,6.964.42390 €
+23,CineRecProv,CineRecProv,23,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,23,Cantabria,1.060.281,36,6.335.98703 €
+75,CineRecProv,CineRecProv,23,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,23,Cantabria,1.142.144,44,6.170.26183 €
+127,CineRecProv,CineRecProv,23,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,23,Córdoba,1.170.323,60,6.392.88215 €
+179,CineRecProv,CineRecProv,23,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,23,Córdoba,1.055.791,56,6.341.28746 €
+231,CineRecProv,CineRecProv,23,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,23,Córdoba,1.093.252,53,6.573.95962 €
+24,CineRecProv,CineRecProv,24,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,24,Córdoba,1.073.863,55,6.333.92392 €
+76,CineRecProv,CineRecProv,24,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,24,Córdoba,1.183.876,60,5.802.76790 €
+128,CineRecProv,CineRecProv,24,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,24,Cantabria,1.044.649,35,6.035.55370 €
+180,CineRecProv,CineRecProv,24,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,24,Valladolid,1.030.879,55,6.145.15291 €
+232,CineRecProv,CineRecProv,24,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,24,Cantabria,1.071.242,36,6.353.20824 €
+25,CineRecProv,CineRecProv,25,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,25,Castellón,913.041,49,5.810.13435 €
+77,CineRecProv,CineRecProv,25,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,25,Castellón,985.338,53,5.711.44940 €
+129,CineRecProv,CineRecProv,25,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,25,Castellón,1.018.350,48,5.999.09310 €
+181,CineRecProv,CineRecProv,25,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,25,Castellón,930.860,49,5.837.04570 €
+233,CineRecProv,CineRecProv,25,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,25,Castellón,962.814,49,6.094.23359 €
+26,CineRecProv,CineRecProv,26,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,26,Almería,894.968,39,5.266.77123 €
+78,CineRecProv,CineRecProv,26,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,26,Almería,1.050.373,46,4.945.53125 €
+130,CineRecProv,CineRecProv,26,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,26,Almería,1.057.076,44,5.323.99715 €
+182,CineRecProv,CineRecProv,26,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,26,Almería,941.242,42,5.535.01691 €
+234,CineRecProv,CineRecProv,26,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,26,Almería,962.554,46,5.392.28820 €
+27,CineRecProv,CineRecProv,27,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,27,Lleida,721.442,56,4.808.27805 €
+79,CineRecProv,CineRecProv,27,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,27,Álava,788.216,41,4.683.97860 €
+131,CineRecProv,CineRecProv,27,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,27,Toledo,907.473,33,5.195.08630 €
+183,CineRecProv,CineRecProv,27,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,27,Lleida,780.573,59,5.145.54280 €
+235,CineRecProv,CineRecProv,27,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,27,Toledo,827.265,39,5.319.79410 €
+28,CineRecProv,CineRecProv,28,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,28,Toledo,747.315,37,4.699.77721 €
+80,CineRecProv,CineRecProv,28,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,28,Toledo,870.323,35,4.615.41460 €
+132,CineRecProv,CineRecProv,28,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,28,Lérida,861.136,55,5.178.54685 €
+184,CineRecProv,CineRecProv,28,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,28,Toledo,784.516,42,5.086.37363 €
+236,CineRecProv,CineRecProv,28,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,28,Lérida,784.586,55,5.089.38260 €
+29,CineRecProv,CineRecProv,29,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,29,Álava,692.719,42,4.341.15628 €
+81,CineRecProv,CineRecProv,29,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,29,Lérida,823.950,59,4.590.26674 €
+133,CineRecProv,CineRecProv,29,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,29,Álava,812.254,42,4.933.93875 €
+185,CineRecProv,CineRecProv,29,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,29,Álava,717.406,43,4.641.97874 €
+237,CineRecProv,CineRecProv,29,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,29,Ciudad Real,892.778,47,4.832.03510 €
+30,CineRecProv,CineRecProv,30,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,30,Badajoz,693.962,31,4.340.11376 €
+82,CineRecProv,CineRecProv,30,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,30,Ciudad Real,891.297,47,4.307.12070 €
+134,CineRecProv,CineRecProv,30,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,30,Ciudad Real,950.444,46,4.726.10290 €
+186,CineRecProv,CineRecProv,30,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,30,Badajoz,750.570,37,4.478.15461 €
+238,CineRecProv,CineRecProv,30,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,30,Álava,727.756,43,4.728.36018 €
+31,CineRecProv,CineRecProv,31,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,31,Ciudad Real,714.563,47,4.334.94750 €
+83,CineRecProv,CineRecProv,31,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,31,Badajoz,815.053,39,4.039.74250 €
+135,CineRecProv,CineRecProv,31,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,31,Badajoz,825.450,34,4.434.18390 €
+187,CineRecProv,CineRecProv,31,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,31,Ciudad Real,713.052,35,4.288.46580 €
+239,CineRecProv,CineRecProv,31,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,31,Badajoz,768.359,35,4.629.13250 €
+32,CineRecProv,CineRecProv,32,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,32,León,649.592,25,4.150.11785 €
+84,CineRecProv,CineRecProv,32,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,32,León,708.235,34,3.977.76148 €
+136,CineRecProv,CineRecProv,32,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,32,Salamanca,766.456,35,4.281.09360 €
+188,CineRecProv,CineRecProv,32,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,32,León,678.561,27,4.201.76655 €
+240,CineRecProv,CineRecProv,32,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,32,Salamanca,699.177,36,4.213.13230 €
+33,CineRecProv,CineRecProv,33,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,33,Salamanca,665.059,33,4.038.79924 €
+85,CineRecProv,CineRecProv,33,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,33,Salamanca,735.212,35,3.886.42345 €
+137,CineRecProv,CineRecProv,33,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,33,León,731.148,25,4.205.12390 €
+189,CineRecProv,CineRecProv,33,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,33,La Rioja,677.809,45,4.113.74919 €
+241,CineRecProv,CineRecProv,33,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,33,León,664.117,26,4.023.93335 €
+34,CineRecProv,CineRecProv,34,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,34,La Rioja,656.881,44,3.964.60631 €
+86,CineRecProv,CineRecProv,34,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,34,La Rioja,701.310,45,3.873.80992 €
+138,CineRecProv,CineRecProv,34,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,34,Huelva,705.978,45,3.774.63990 €
+190,CineRecProv,CineRecProv,34,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,34,Salamanca,681.869,33,4.065.01560 €
+242,CineRecProv,CineRecProv,34,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,34,La Rioja,621.895,45,3.893.73950 €
+35,CineRecProv,CineRecProv,35,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,35,Huelva,655.609,43,3.944.03802 €
+87,CineRecProv,CineRecProv,35,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,35,Huelva,652.479,44,3.398.54680 €
+139,CineRecProv,CineRecProv,35,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,35,Jaén,733.725,35,3.660.19735 €
+191,CineRecProv,CineRecProv,35,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,35,Huelva,669.158,40,3.920.14670 €
+243,CineRecProv,CineRecProv,35,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,35,Huelva,675.493,46,3.849.91435 €
+36,CineRecProv,CineRecProv,36,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,36,Jaén,647.914,35,3.763.84190 €
+88,CineRecProv,CineRecProv,36,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,36,Albacete,593.082,33,3.327.76069 €
+140,CineRecProv,CineRecProv,36,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,36,Albacete,582.268,33,3.593.59074 €
+192,CineRecProv,CineRecProv,36,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,36,Jaén,680.725,37,3.840.24100 €
+244,CineRecProv,CineRecProv,36,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,36,Jaén,671.846,33,3.769.95790 €
+37,CineRecProv,CineRecProv,37,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,37,Burgos,438.493,21,2.974.30560 €
+89,CineRecProv,CineRecProv,37,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,37,Jaén,711.684,34,3.316.59960 €
+141,CineRecProv,CineRecProv,37,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,37,La Rioja,598.337,55,3.473.05230 €
+193,CineRecProv,CineRecProv,37,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,37,Albacete,457.220,26,3.038.27506 €
+245,CineRecProv,CineRecProv,37,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,37,Albacete,482.311,23,3.282.37864 €
+38,CineRecProv,CineRecProv,38,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,38,Albacete,465.804,27,2.929.40808 €
+90,CineRecProv,CineRecProv,38,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,38,Burgos,425.499,21,2.448.94020 €
+142,CineRecProv,CineRecProv,38,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,38,Burgos,429.821,15,2.564.63790 €
+194,CineRecProv,CineRecProv,38,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,38,Burgos,413.006,23,2.777.80250 €
+246,CineRecProv,CineRecProv,38,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,38,Burgos,395.132,15,2.631.14640 €
+39,CineRecProv,CineRecProv,39,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,39,Cáceres,369.503,21,2.174.00610 €
+91,CineRecProv,CineRecProv,39,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,39,Cáceres,425.696,27,2.035.50610 €
+143,CineRecProv,CineRecProv,39,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,39,Cáceres,474.639,28,2.463.10360 €
+195,CineRecProv,CineRecProv,39,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,39,Cáceres,386.794,28,2.218.08340 €
+247,CineRecProv,CineRecProv,39,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,39,Cáceres,434.845,27,2.478.20620 €
+40,CineRecProv,CineRecProv,40,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,40,Lugo,351.859,23,2.124.86654 €
+92,CineRecProv,CineRecProv,40,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,40,Guadalajara,313.039,14,1.961.07549 €
+144,CineRecProv,CineRecProv,40,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,40,Guadalajara,341.282,14,2.147.65704 €
+196,CineRecProv,CineRecProv,40,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,40,Guadalajara,306.026,14,2.150.68553 €
+248,CineRecProv,CineRecProv,40,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,40,Guadalajara,347.152,14,2.463.11258 €
+41,CineRecProv,CineRecProv,41,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,41,Guadalajara,306.562,14,2.006.01154 €
+93,CineRecProv,CineRecProv,41,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,41,Lugo,355.965,24,1.835.65930 €
+145,CineRecProv,CineRecProv,41,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,41,Lugo,386.645,24,2.135.85380 €
+197,CineRecProv,CineRecProv,41,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,41,Lugo,357.045,23,2.086.67120 €
+249,CineRecProv,CineRecProv,41,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,41,Lugo,343.639,23,2.011.92080 €
+42,CineRecProv,CineRecProv,42,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,42,Ourense,273.827,12,1.891.09655 €
+94,CineRecProv,CineRecProv,42,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,42,Segovia,282.797,15,1.534.83065 €
+146,CineRecProv,CineRecProv,42,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,42,Orense,285.310,12,1.701.86400 €
+198,CineRecProv,CineRecProv,42,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,42,Ourense,268.778,12,1.791.41430 €
+250,CineRecProv,CineRecProv,42,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,42,Segovia,313.326,16,1.844.92580 €
+43,CineRecProv,CineRecProv,43,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,43,Segovia,242.947,15,1.521.00540 €
+95,CineRecProv,CineRecProv,43,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,43,Orense,263.039,12,1.521.18190 €
+147,CineRecProv,CineRecProv,43,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,43,Segovia,298.620,15,1.654.57940 €
+199,CineRecProv,CineRecProv,43,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,43,Segovia,266.144,17,1.659.31040 €
+251,CineRecProv,CineRecProv,43,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,43,Orense,265.255,13,1.691.53290 €
+44,CineRecProv,CineRecProv,44,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,44,Palencia,186.338,13,1.110.18500 €
+96,CineRecProv,CineRecProv,44,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,44,Palencia,242.603,21,1.145.25800 €
+148,CineRecProv,CineRecProv,44,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,44,Zamora,219.493,9,1.188.70600 €
+200,CineRecProv,CineRecProv,44,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,44,Zamora,193.279,11,1.110.29800 €
+252,CineRecProv,CineRecProv,44,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,44,Zamora,245.805,11,1.383.62980 €
+45,CineRecProv,CineRecProv,45,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,45,Zamora,188.572,11,1.065.72170 €
+97,CineRecProv,CineRecProv,45,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,45,Cuenca,198.943,17,1.038.14422 €
+149,CineRecProv,CineRecProv,45,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,45,Ávila,203.020,12,1.104.48500 €
+201,CineRecProv,CineRecProv,45,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,45,Palencia,178.449,13,1.078.19590 €
+253,CineRecProv,CineRecProv,45,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,45,Palencia,210.644,13,1.301.86280 €
+46,CineRecProv,CineRecProv,46,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,46,Ávila,169.649,9,1.017.91980 €
+98,CineRecProv,CineRecProv,46,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,46,Ávila,202.688,12,1.036.87780 €
+150,CineRecProv,CineRecProv,46,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,46,Huesca,189.138,14,1.028.53890 €
+202,CineRecProv,CineRecProv,46,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,46,Ávila,179.782,12,1.046.16149 €
+254,CineRecProv,CineRecProv,46,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,46,Cuenca,206.404,17,1.137.73665 €
+47,CineRecProv,CineRecProv,47,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,47,Cuenca,146.433,18,903.07830 €
+99,CineRecProv,CineRecProv,47,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,47,Zamora,197.220,16,1.008.88380 €
+151,CineRecProv,CineRecProv,47,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,47,Soria,176.998,10,963.06240 €
+203,CineRecProv,CineRecProv,47,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,47,Huesca,181.187,16,1.015.00620 €
+255,CineRecProv,CineRecProv,47,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,47,Ávila,190.201,12,1.100.68100 €
+48,CineRecProv,CineRecProv,48,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,48,Huesca,139.423,16,816.67770 €
+100,CineRecProv,CineRecProv,48,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,48,Soria,173.569,10,910.10285 €
+152,CineRecProv,CineRecProv,48,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,48,Palencia,183.814,13,949.59400 €
+204,CineRecProv,CineRecProv,48,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,48,Cuenca,168.150,17,996.02872 €
+256,CineRecProv,CineRecProv,48,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,48,Huesca,192.283,15,1.080.51102 €
+49,CineRecProv,CineRecProv,49,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,49,Ceuta,110.385,7,630.63419 €
+101,CineRecProv,CineRecProv,49,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,49,Huesca,174.667,15,895.37500 €
+153,CineRecProv,CineRecProv,49,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,49,Cuenca,174.801,17,937.55374 €
+205,CineRecProv,CineRecProv,49,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,49,Soria,147.364,10,856.29635 €
+257,CineRecProv,CineRecProv,49,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,49,Soria,150.878,10,868.74825 €
+50,CineRecProv,CineRecProv,50,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,50,Soria,63.643,10,360.79560 €
+102,CineRecProv,CineRecProv,50,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,50,Ceuta,106.834,7,524.54110 €
+154,CineRecProv,CineRecProv,50,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,50,Ceuta,114.757,7,584.93000 €
+206,CineRecProv,CineRecProv,50,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,50,Ceuta,119.244,7,628.22355 €
+258,CineRecProv,CineRecProv,50,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,50,Ceuta,108.752,7,562.21240 €
+51,CineRecProv,CineRecProv,51,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,51,Melilla,44.521,1,248.07850 €
+103,CineRecProv,CineRecProv,51,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,51,Teruel,48.307,6,237.01340 €
+155,CineRecProv,CineRecProv,51,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,51,Teruel,48.560,5,248.90700 €
+207,CineRecProv,CineRecProv,51,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,51,Teruel,54.817,7,310.19730 €
+259,CineRecProv,CineRecProv,51,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,51,Teruel,52.246,7,290.81130 €
+52,CineRecProv,CineRecProv,52,http://www.mcu.es/cine/MC/CDC/Anio2012/CineProvincias.html,52,Teruel,31.994,6,184.90675 €
+104,CineRecProv,CineRecProv,52,http://www.mcu.es/cine/MC/CDC/Anio2008/CineProvincias.html,52,Melilla,53.488,4,219.60900 €
+156,CineRecProv,CineRecProv,52,http://www.mcu.es/cine/MC/CDC/Anio2009/CineProvincias.html,52,Melilla,39.472,4,159.83950 €
+208,CineRecProv,CineRecProv,52,http://www.mcu.es/cine/MC/CDC/Anio2011/CineProvincias.html,52,Melilla,43.986,1,252.05750 €
+260,CineRecProv,CineRecProv,52,http://www.mcu.es/cine/MC/CDC/Anio2010/CineProvincias.html,52,Melilla,53.176,4,247.96250 €
