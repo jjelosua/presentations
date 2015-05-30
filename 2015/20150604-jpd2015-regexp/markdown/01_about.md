@@ -54,7 +54,7 @@ En [civio][civio] hemos recopilado, desgranado y clasificado toda la informació
 
 [vertical-sep]
 
-### <a target="_blank" href="http://dondevanmisimpuestos/ccaa">Donde van mis impuestos - CCAAs</a>
+### <a target="_blank" href="http://dondevanmisimpuestos.es/ccaa">Donde van mis impuestos - CCAAs</a>
 
 De nuevo colaborando con [civio][civio] hemos integrado una comparativa regional de los presupuestos donde se puede ver en qué area funcional gasta más cada C.C.A.A. Se puede observar tanto el gasto presupuestado total, como el presupuesto por habitante.
 

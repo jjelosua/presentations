@@ -1,17 +1,17 @@
-## RegExpOne
+## <a target="_blank" href="http://regexone.com/lesson/0">RegExOne</a>
 
-<a target="_blank" href="http://regexone.com/lesson/0">RegExpOne</a>
-
-Vamos a poner en práctica los conocimientos aprendidos
-* Realizar los ejercicios de las primeras 14 lecciones
-
-[vertical-sep]
-
-## RegExpOne - Lesson0
+Plataforma online para aprender expresiones regulares
 
 ![RegExpOne screenshot][regexpone] <!-- .element: class="img_80" -->
 
 [regexpone]: images/regexpone.jpg
+
+[vertical-sep]
+
+## <a target="_blank" href="http://regexone.com/lesson/0">RegExOne</a>
+
+Vamos a poner en práctica los conocimientos aprendidos
+* Realizar los ejercicios de las primeras 14 lecciones
 
 [slide-sep]
 
