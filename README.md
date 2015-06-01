@@ -8,7 +8,7 @@ This repo is designed to hold various presentations for training,
 
 ## Presentations
 
-We are using the gh-pages branch to serve the presentations for more details on the included presentations
+We are using the gh-pages branch to serve the presentations
 
 ### 2015
 * [Regular expressions for the JPD2015 conference][jpd2015]
