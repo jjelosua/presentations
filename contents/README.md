@@ -11,7 +11,7 @@ This repo is designed to hold various presentations for training,
 * 2015
     * [Regular expressions for the JPD2015 conference][jpd2015]
 
-[jpd2015]: 2015/20150604-jpd2015-regexp/index.html
+[jpd2015]: http://www.juanelosua.com/presentations/2015/20150604-jpd2015-regexp/
 
 ## Acknowledgements
 
