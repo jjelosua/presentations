@@ -1,4 +1,4 @@
-## Soluciones - Ejercicio Regexone
+## Soluciones - Regexone
 
 * Lesson 1a - abc.*
 * Lesson 1b - .*123.*
@@ -8,6 +8,11 @@
 * Lesson 5 - [A-Z].{2}
 * Lesson 6 - waz{2,}up
 * Lesson 7 - a{2,}b*c+
+
+[vertical-sep]
+
+## Soluciones - Regexone
+
 * Lesson 8 - .\s+files?\s+found\?
 * Lesson 9 - \d\.\s+abc
 * Lesson 10 - ^Mission:.*
@@ -18,7 +23,7 @@
 
 [slide-sep]
 
-## Soluciones - Ejercicio Notepad++
+## Soluciones - Notepad++
 
 * Primer paso (Cambiar formato de fecha y girarlo):
     * **find**: \s+(\d{1,2})/(\d{1,2})/(\d{4}) 
@@ -32,7 +37,7 @@
 
 [slide-sep]
 
-## Soluciones - Ejercicio OpenRefine
+## Soluciones - OpenRefine
 
 * Sobre la columna _pageURL:
 
@@ -59,5 +64,3 @@ value.replace(/(\d)\.(\d)/,"$1$2")
 ```
 \d{2}1\d
 ```
-
-cambio de prueba
