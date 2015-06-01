@@ -75,7 +75,7 @@ Ya en Argentina como parte de mi fellowship en [La Nación][lanacion] he colabor
 <!-- .element: class="proj_desc"-->
 
 <a target="_blank" href="http://www.lanacion.com.ar/1788681-como-fueron-los-resultados-de-las-paso-en-la-escuela-donde-votaste">
-    <img alt="2015 PASO Buenos Aires" class="img_60" data-src="images/PASO.jpg"></img>
+    <img alt="2015 PASO Buenos Aires" class="img_60" data-src="images/paso.jpg"></img>
 </a>
 
 [lanacion]: http://www.lanacion.com.ar/
