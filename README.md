@@ -8,12 +8,13 @@ This repo is designed to hold various presentations for training,
 
 ## Presentations
 
-We are using the gh-pages branch to serve the presentations for more details on the included presentations refer to the [README][readme]
+We are using the gh-pages branch to serve the presentations for more details on the included presentations
 
-[readme]: contents/README.md
-
-[jpd2015]
+* 2015
+    * [Regular expressions for the JPD2015 conference][jpd2015]
 
 ## Acknowledgements
 
 * To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy. 
+
+[jpd2015]: http://www.juanelosua.com/presentations/2015/20150604-jpd2015-regexp/
