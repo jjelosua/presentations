@@ -110,6 +110,14 @@ Sirve de sustituto de cualquier carácter
     <img alt="RegExp example" class="img_80" data-src="images/regexp4.jpg"></img>
 </a>
 
+[vertical-sep]
+
+## Ejemplo punto como literal
+
+<a target="_blank" href="http://rubular.com/r/rhxTUm370M">
+    <img alt="RegExp example" class="img_80" data-src="images/regexp4_2.jpg"></img>
+</a>
+
 [slide-sep]
 
 ## Sintaxis - Marcadores posicionales
