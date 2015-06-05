@@ -97,7 +97,7 @@ Es necesario hablar en un lenguaje cercano para integrarse
 
 [vertical-sep]
 
-## A vaquiña polo que vale...
+### Reflexiones
 
 En Galicia se dice _"Amigos si, pero a vaquiña polo que vale"_
 * Es dificil contentar a ambos mundos...equilibrio!!
