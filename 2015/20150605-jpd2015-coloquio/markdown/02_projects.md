@@ -22,7 +22,7 @@ Este fue mi primer proyecto de periodismo de datos. Tras un periplo por las admi
 
 [slide-sep]
 
-## <a target="_blank" href="http://www.elindultometro.es">El indultometro</a>
+## <a target="_blank" href="http://www.elindultometro.es">El indultómetro</a>
 
 En [civio][civio] hemos recopilado, desgranado y clasificado toda la información contenida en el BOE sobre los indultos concedidos en España desde 1996. Busca por tipo de delito, compara datos anuales y valora el uso que cada gobierno ha hecho de ellos
 
