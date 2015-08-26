@@ -51,5 +51,5 @@ gulp.task('server', ['connect', 'watch']);
 
 // default task
 gulp.task('default', function() {
-  console.log("D3 training at La Nacion");
+  console.log("Presentations local server");
 });
