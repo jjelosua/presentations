@@ -10,9 +10,9 @@ This repo is designed to hold various presentations for training,
 
 We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push the presentations output to github pages
 
-        ```
+        
         $ ghp-import -p -m "hhba" contents
-        ```
+        
 
 ### 2015
 * [Regular expressions for the JPD2015 conference - MAD][jpd2015-1]
