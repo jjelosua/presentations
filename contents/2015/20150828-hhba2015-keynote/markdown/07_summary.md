@@ -1,6 +1,6 @@
 ## Conclusiones
 
-[slide-sep]
+[vertical-sep]
 
 ## Aprendizaje continuo 
 
