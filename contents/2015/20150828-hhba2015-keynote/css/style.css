@@ -1,0 +1,37 @@
+.reveal .sm_note {
+    font-style: italic;
+    font-size: 0.6em;
+    /*text-align: left;*/
+}
+
+.reveal .sm_note_med {
+    font-style: italic;
+    font-size: 0.8em;
+    /*text-align: left;*/
+}
+
+
+.reveal .proj_desc {
+    font-size: 0.8em;
+    /*text-align: left;*/
+}
+
+.reveal .img_40 {
+    max-width: 40%;
+    max-height: 40%;
+}
+
+.reveal .img_60 {
+    max-width: 60%;
+    max-height: 60%;
+}
+
+.reveal .img_70 {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.reveal .img_80 {
+    max-width: 80%;
+    max-height: 80%;
+}
