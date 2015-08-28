@@ -16,6 +16,12 @@
     /*text-align: left;*/
 }
 
+.reveal .img_30 {
+    max-width: 40%;
+    max-height: 40%;
+    margin: 0 auto;
+}
+
 .reveal .img_40 {
     max-width: 40%;
     max-height: 40%;

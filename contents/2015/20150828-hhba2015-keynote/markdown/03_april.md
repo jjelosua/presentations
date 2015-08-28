@@ -12,7 +12,7 @@ Recibimos los datos de prueba el viernes 24 de Abril, dos días antes de las ele
 
 #### Elecciones PASO CABA <br> Tiempo Real
 
-<a target="_blank" href="images">
+<a target="_blank" href="http://www.lanacion.com.ar/1787651-elecciones-2015-resultados-de-las-paso-portenas-en-un-mapa-interactivo">
     <img alt="Mapa tiempo real PASO CABA" class="img_70" data-src="images/20150426_PASO_CABA.jpg"></img>
 </a>
 
@@ -20,7 +20,7 @@ Recibimos los datos de prueba el viernes 24 de Abril, dos días antes de las ele
 
 #### Elecciones PASO CABA <br> Escuela por escuela
 
-<a target="_blank" href="images">
+<a target="_blank" href="http://www.lanacion.com.ar/1788681-como-fueron-los-resultados-de-las-paso-en-la-escuela-donde-votaste">
     <img alt="Mapa resultados por escuela PASO CABA" class="img_60" data-src="images/20150426_PASO_CABA_POLLING.jpg"></img>
 </a>
 
@@ -30,9 +30,9 @@ Basado en un trabajo previo de <!-- .element: class="sm_note" -->[Manuel Aristar
 
 ### Lecciones Aprendidas
 
-* Montar tu propio simulador de datos para poder realizar tus pruebas bajo ciertas condiciones.
+* Montar tu propio simulador de datos para poder realizar pruebas bajo ciertas condiciones.
 
-* Enriquecer la visualización con un único ganador.
+* Mejorar la visualización cuando hay un único ganador.
 
 * Resultados por escuela:
 

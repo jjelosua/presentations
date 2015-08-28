@@ -1,7 +1,3 @@
-## Conclusiones
-
-[vertical-sep]
-
 ## Aprendizaje continuo 
 
 * El periodismo de datos es un campo excelente para aquellos a los que nos gusta/necesitamos aprender cada día.
