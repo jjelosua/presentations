@@ -3,11 +3,11 @@
 Cuando supe que vendría a La Nación como Knight-Mozilla Fellow no sabía de que se iba a batir un record Guiness...
 
 <a target="_blank" href="http://www.lanacion.com.ar/1784053-calendario-electoral-completo-de-2015">
-    <img alt="Calendario elecciones" class="img_40" data-src="images/calendario.jpg"></img>
+    <img alt="Calendario elecciones" class="img_30" data-src="images/calendario.jpg"></img>
 </a>
 
-Resumen: Un porteño si hay ballotage en las nacionales habrá votado 6 veces en el mismo año
-<!-- .element: class="sm_note" -->
+Un porteño si hay ballotage en las nacionales habrá votado 6 veces en 2015
+<!-- .element: class="sm_note_med" -->
 
 [slide-sep]
 
@@ -18,7 +18,7 @@ He pensado que sería interesante compartir las experiencias que hemos vivido du
 ¿Cómo ha sido la evolución del seguimiento?
 <!-- .element: class="sm_note_med" -->
 
-[vertical-sep]
+[slide-sep]
 
 ## Evolución
 

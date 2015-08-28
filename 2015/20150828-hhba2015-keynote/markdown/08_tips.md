@@ -1,4 +1,4 @@
-## Algunas tips técnicas
+## Detalles técnicos
 
 [vertical-sep]
 
@@ -29,34 +29,39 @@ cuando tengas que solucionar algo rápidamente
 
 [vertical-sep]
 
-## [Gulp]() (_Node_)
+## [Gulp](http://gulpjs.com/) (_Node_)
 
 * Permite usar liveReload para el desarrollo
 * Minimificar, _afear_ y versionar estáticos
 
-[Imagen]
+![Gulp][gulp_img] <!-- .element: class="img_80" -->
+
+[gulp_img]: images/gulp.jpg
 
 [vertical-sep]
 
-## [Fabric]() (_Python_)
+## [Fabric](http://www.fabfile.org/) (_Python_)
 
 * Despliegue a servidores, incluso en paralelo
 * Coordinación de tareas y manejo de entornos virtuales
 
-[Imagen]
+![Fabric][fabric_img] <!-- .element: class="img_80" -->
+
+[fabric_img]: images/fabric.jpg
 
 [vertical-sep]
 
-## [Github Issues]()
-
-**Si no es un issue no existe**
+## [Github Issues](https://guides.github.com/features/issues/)
 
 En nuestro trabajo hemos integrado los issues de github como mecanismo
 de comunicacion de errores y mejoras.
 
+![Github Issues][issues_img] <!-- .element: class="img_80" -->
+
+[issues_img]: images/issues.jpg
+
 * Flujo de trabajo: Ves un error creas un issue y continuas con tu tarea.
- 
-[Imagen]
+<!-- .element: class="sm_note" -->
 
 [vertical-sep]
 
@@ -73,23 +78,29 @@ el desarrollo en un laberinto.
 
 [vertical-sep]
 
-## [Requirejs]()
+## [Requirejs](http://requirejs.org/)
 
 * Permite crear módulos asíncronos y mantenerlos coordinados.
-* Cuenta con un optimizador para producción [enlace]
+* Cuenta con un [optimizador](http://requirejs.org/docs/optimization.html) para producción
 
-[Imagen]
+![Requirejs][require_img] <!-- .element: class="img_80" -->
+
+[require_img]: images/requirejs.jpg
 
 [vertical-sep]
 
-## [Excepciones de usuario]()
+## [Excepciones de usuario](https://docs.python.org/2/tutorial/errors.html)
 
 Para no pasar el control del programa entre módulos en modo laberinto
 se pueden usar excepciones personalizables para dicho control.
 
-[imagen1]
+![User Exceptions][excep1_img] <!-- .element: class="img_70" -->
 
-[imagen2]
+[excep1_img]: images/excep1.jpg
+
+![User Exceptions][excep2_img] <!-- .element: class="img_70" -->
+
+[excep2_img]: images/excep2.jpg
 
 [vertical-sep]
 
@@ -100,4 +111,24 @@ Lo hemos conseguido...pero está funcionando bien?
 * Postman: Colecciones para testear las APIs
 
 * Logging: Imprescindible para testear que el backend está vivo.
+
+[vertical-sep]
+
+## Postman
+
+* Permite consultar APIs de manera sencilla y compartir con el equipo
+
+![Postman][postman_img] <!-- .element: class="img_80" -->
+
+[postman_img]: images/postman.jpg
+
+[vertical-sep]
+
+## Logging
+
+* Ir viendo pasar matrix ante tus ojos...
+
+![Logging][log_img] <!-- .element: class="img_80" -->
+
+[log_img]: images/logging.jpg
 
