@@ -1,9 +1,10 @@
 # Elecciones: Aprendizaje continuo
 ### Experiencias en La Nación
 
-_[Juan Elosua][blog]_ 
+_[Juan Elosua][blog]_ - _[bit.ly/jet_keynote][slides]_
 
 [blog]: http://www.juanelosua.com
+[slides]: http://bit.ly/jet_keynote
 
 [slide-sep]
 

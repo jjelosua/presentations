@@ -1,9 +1,10 @@
 # Expresiones regulares
 ### Magia negra a tu servicio..._sh{2,}_
 
-_[Juan Elosua][blog]_ 
+_[Juan Elosua][blog]_ - _[bit.ly/jet_workshop][slides]_
 
 [blog]: http://www.juanelosua.com
+[slides]: http://bit.ly/jet_workshop
 
 [slide-sep]
 
