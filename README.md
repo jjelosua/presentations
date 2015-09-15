@@ -20,6 +20,7 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 * [Regular expressions for the JPD2015 conference - BCN][jpd2015-3]
 * [Elections: Continuous learning in a newsroom - BA][hhba2015-1]
 * [Regular expressions for the HHBA conference - BA][hhba2015-2]
+* [Developer perspectiv for Master La Nación - BA][masterLN2015]
 
 ## Acknowledgements
 
@@ -30,3 +31,4 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 [jpd2015-3]: http://www.juanelosua.com/presentations/2015/20150606-jpd2015-regexp/
 [hhba2015-1]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-keynote/
 [hhba2015-2]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-regexp/
+[masterLN2015]: http://www.juanelosua.com/presentations/2015/20150916-masterLN-perspectiva/
