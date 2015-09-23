@@ -1,0 +1,59 @@
+.reveal .sm_note {
+    font-style: italic;
+    font-size: 0.6em;
+    /*text-align: left;*/
+}
+
+.reveal .sm_note_med {
+    font-style: italic;
+    font-size: 0.8em;
+    /*text-align: left;*/
+}
+
+
+.reveal .proj_desc {
+    font-size: 0.8em;
+    /*text-align: left;*/
+}
+
+.reveal .t_left {
+    text-align: left;
+}
+
+.reveal .ex_steps {
+    font-size: 0.7em;
+    /*text-align: left;*/
+}
+
+.reveal .img_60 {
+    max-width: 60%;
+    max-height: 60%;
+}
+
+.reveal .float_60 {
+    float: right;
+    max-width: 60%;
+    max-height: 60%;
+}
+
+.reveal .img_70 {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.reveal .float_70 {
+    float: right;
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.reveal .img_80 {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+.reveal .float_80 {
+    float: right;
+    max-width: 150%;
+    max-height: 150%;
+}

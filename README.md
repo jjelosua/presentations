@@ -21,6 +21,7 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 * [Elections: Continuous learning in a newsroom - BA][hhba2015-1]
 * [Regular expressions for the HHBA conference - BA][hhba2015-2]
 * [Developer perspective for Master La Nación - BA][masterLN2015]
+* [Open Refine for La Nación - BA][LNtraining2015_1]
 
 ## Acknowledgements
 
@@ -32,3 +33,4 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 [hhba2015-1]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-keynote/
 [hhba2015-2]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-regexp/
 [masterLN2015]: http://www.juanelosua.com/presentations/2015/20150916-masterLN-perspectiva/
+[LNtraining2015_1]: http://www.juanelosua.com/presentations/2015/20150923-lanacion-refine/
