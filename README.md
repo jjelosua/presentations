@@ -14,6 +14,8 @@ This repo is designed to hold various presentations for training,
 * [Regular expressions for the HHBA conference - BA][hhba2015-2]
 * [Developer perspective for Master La Nación - BA][masterLN2015]
 * [Open Refine for La Nación - BA][LNtraining2015_1]
+* [Mozfest Science Fair - London][mozfest1]
+* [Mozfest Intro to d3js - London][mozfest2]
 
 
 ## Acknowledgements
@@ -27,4 +29,6 @@ This repo is designed to hold various presentations for training,
 [hhba2015-2]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-regexp/
 [masterLN2015]: http://www.juanelosua.com/presentations/2015/20150916-masterLN-perspectiva/
 [LNtraining2015_1]: http://www.juanelosua.com/presentations/2015/20150923-lanacion-refine/
+[mozfest1]: http://www.juanelosua.com/presentations/2015/20151106-mozfest-sciencefair/
+[mozfest2]: http://www.juanelosua.com/presentations/2015/20151107-mozfest-d3/
 
