@@ -6,12 +6,12 @@
 
 [vertical-sep]
 
-### <a target="_blank" href="URL">Project Title</a>
+### <a target="_blank" href="#/4/1">Magic map button</a>
 
-Project description
+Unfortunately Linda will not be able to join us today
 
 <!-- .element: class="proj_desc"-->
 
-<a target="_blank" href="">
+<a target="_blank" href="#/4/1">
     <img alt="" class="img_60" data-src="images/linda1.jpg"></img>
 </a>
