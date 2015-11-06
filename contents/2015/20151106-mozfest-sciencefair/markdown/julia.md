@@ -1,4 +1,4 @@
-## [Julia Smith]()
+## [Julia Smith](http://julia.nightbirdstudios.com/)
 
 ### [CIR - Center for Investigative Reporting](http://cironline.org/)
 

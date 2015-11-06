@@ -1,4 +1,4 @@
-## [Tara Adiseshan]()
+## [Tara Adiseshan](http://twitter.com/taraadiseshan)
 
 ### [Coral Project](http://coralproject.net)
 
@@ -6,9 +6,9 @@
 
 [vertical-sep]
 
-### <a target="_blank" href="URL">Project Title1</a>
+### <a target="_blank" href="http://frnsys.com/atoll/">Trust analytics</a>
 
-Project description
+
 
 <!-- .element: class="proj_desc"-->
 

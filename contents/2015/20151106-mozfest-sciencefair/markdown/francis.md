@@ -6,12 +6,12 @@
 
 [vertical-sep]
 
-### <a target="_blank" href="URL">Project Title</a>
+### <a target="_blank" href="http://frnsys.com/atoll/">Atoll</a>
 
-Project description
+A microservice for data analysis pipelines.<br> [Coral Project](http://coralproject.net) will use for its user metrics
 
 <!-- .element: class="proj_desc"-->
 
-<a target="_blank" href="">
+<a target="_blank" href="http://frnsys.com/atoll/">
     <img alt="" class="img_60" data-src="images/francis1.jpg"></img>
 </a>

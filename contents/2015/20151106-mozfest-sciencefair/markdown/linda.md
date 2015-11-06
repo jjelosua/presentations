@@ -1,4 +1,4 @@
-## [Linda Sandvik]()
+## [Linda Sandvik](http://twitter.com/hyper_linda)
 
 ### [The Guardian](http://www.theguardian.com/uk)
 
