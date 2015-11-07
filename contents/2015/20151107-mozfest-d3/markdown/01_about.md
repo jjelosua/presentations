@@ -3,8 +3,11 @@
 
 _[Juan Elosua][blog]_ - _[bit.ly/mozfest_d3][slides]_
 
+_[local resources][resources]_
+
 [blog]: http://www.juanelosua.com
 [slides]: http://bit.ly/mozfest_d3
+[resources]: https://dl.dropboxusercontent.com/u/19188751/introd3.zip
 
 [slide-sep]
 
