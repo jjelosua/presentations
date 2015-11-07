@@ -1,3 +1,30 @@
+## Main goals of today's session
+
+[vertical-sep]
+
+## Goals (Thinking big!!)
+
+* Understand how d3 selections work
+    * enter()
+    * update
+    * exit()
+
+* Understand the power of d3.scales
+
+* Understand how transitions work
+
+[vertical-sep]
+
+## Secondary goals 
+
+* We will not get there, but you get the slides for free!!
+
+* Interactivity
+
+* D3 layouts
+
+[slide-sep]
+
 ## D3.js Introduction
 
 [vertical-sep]
