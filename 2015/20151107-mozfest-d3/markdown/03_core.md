@@ -186,7 +186,7 @@
 
 [vertical-sep]
 
-## Let's add some labels to our bars
+## Add some labels to our bars
 
 <a target="_blank" href="http://blockbuilder.org/jjelosua/ab12c8414a75a2314271">
     <img alt="D3 examples" class="img_70" data-src="images/example09.jpg"></img>
@@ -197,7 +197,7 @@
 
 [vertical-sep]
 
-## Let's fix the height problem manually
+## Fix the height problem manually
 
 * Multiply the height of the bars by a factor
 * Add a minimum height not to cut the labels

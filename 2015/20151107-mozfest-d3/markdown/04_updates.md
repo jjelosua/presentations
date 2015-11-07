@@ -62,16 +62,15 @@
 
 [vertical-sep]
 
-## Transitions IV
+## Transitions IV - each()
 
-* If we want something to happen at the start or at the end of a transition:
-    _each(“start”,function)_ or _each(“stop”,function)_
+* Do something at the start or end of a transition
 
 <a target="_blank" href="http://blockbuilder.org/jjelosua/95a585d575d1845b3911">
     <img alt="D3 examples" class="img_70" data-src="images/example16.jpg"></img>
 </a>
 
-* Notice that newer transitions interrupt and override previous ones
+Notice that newer transitions interrupt and override previous ones
 <!-- .element: class="sm_note_med" -->
 
 [vertical-sep]
