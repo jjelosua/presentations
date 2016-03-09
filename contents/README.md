@@ -17,6 +17,9 @@ This repo is designed to hold various presentations for training,
 * [Mozfest Science Fair - London][mozfest1]
 * [Mozfest Intro to d3js - London][mozfest2]
 
+### 2016
+* [Regular expressions for 2016 Master UE - MAD][master2016-1]
+* [Intro to d3 for 2016 Master UE - MAD][master2016-2]
 
 ## Acknowledgements
 
@@ -31,4 +34,6 @@ This repo is designed to hold various presentations for training,
 [LNtraining2015_1]: http://www.juanelosua.com/presentations/2015/20150923-lanacion-refine/
 [mozfest1]: http://www.juanelosua.com/presentations/2015/20151106-mozfest-sciencefair/
 [mozfest2]: http://www.juanelosua.com/presentations/2015/20151107-mozfest-d3/
+[master2016-1]: http://www.juanelosua.com/presentations/2016/20160314-masterUE-regexp/
+[master2016-2]: http://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
 
