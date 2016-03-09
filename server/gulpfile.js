@@ -4,8 +4,14 @@ var gulp = require('gulp'),
     watch = require('gulp-watch'),
     stylish = require('jshint-stylish');
 
-gulp.task('lintHTML', function() {
-  return gulp.src('**/*.html',{ cwd: '../2015'})
+//CHANGE IF NEEDED
+var conf = {
+    app_cwd:'../contents/',
+    port:8080
+};
+
+gulp.task('lint_js', function() {
+  return gulp.src('20*/**/*.html', { cwd: conf.app_cwd })
     // if flag is not defined default value is 'auto' 
     .pipe(jshint.extract('auto'))
     .pipe(jshint())
@@ -14,42 +20,30 @@ gulp.task('lintHTML', function() {
 });
 
 // SERVER TASKS
-gulp.task('reload', function() {
-    gulp.src('../2015/**/*.html', {read: true })
-        .pipe(watch('../2015/**/*.html'))
-        .pipe(jshint.extract('auto'))
-        .pipe(jshint())
-        .pipe(jshint.reporter('default'))
-        .pipe(jshint.reporter(stylish))
-        .pipe(connect.reload());
-});
-
 gulp.task('connect', function() {
   connect.server({
-    root: '../',
+    root: '../contents/',
     livereload: true,
     port:8080
   });
 });
 
 gulp.task('html', function () {
-  gulp.src('../2015/**/*.html')
+  gulp.src(['20*/**/*.html'], { cwd: conf.app_cwd })
     .pipe(connect.reload());
 });
  
 gulp.task('watch', function () {
-  gulp.watch(['../2015/**/*.html', 
-              '../2015/**/*.md',
-              '../2015/**/*.css',
-              '../2015/**/*.js',
-              '../2015/**/*.png',
-              '../2015/**/*.jpg'], ['html','lintHTML']);
+  gulp.watch([conf.app_cwd+'20*/**/*.html', 
+              conf.app_cwd+'20*/**/*.md',
+              conf.app_cwd+'20*/**/*.css',
+              conf.app_cwd+'20*/**/*.js',
+              conf.app_cwd+'20*/**/*.png',
+              conf.app_cwd+'20*/**/*.jpg'], ['html','lint_js']);
 });
 
 // development server reload modified files
 gulp.task('server', ['connect', 'watch']);
 
 // default task
-gulp.task('default', function() {
-  console.log("Presentations local server");
-});
+gulp.task('default', ['server']);
