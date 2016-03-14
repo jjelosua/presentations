@@ -2,13 +2,13 @@
 
 [vertical-sep]
 
-* D3 layouts take data that you provide and remap or otherwise transform it, thereby generating new data that is more convenient for a specific visual task
+* Los layouts en D3 transforman o mapean los datos de entrada o otro formato, se usan para generar datos de una forma específica para una tarea visual
 
-* D3 layouts do not, in fact, lay anything out for you on the screen.
+* Cabe resaltar que los layouts de D3 no generan ningún elemento visual en pantalla.
 
 [vertical-sep]
 
-* Here is a list of the available layouts
+* Aquí tenemos algunos de los layouts disponibles
     * Bundle
     * Chord
     * Cluster
@@ -21,48 +21,48 @@
     * Tree
     * Treemap
 
-* Check the [API reference](https://github.com/mbostock/d3/wiki/Layouts) for updates
+* Ver la [referencia API](https://github.com/mbostock/d3/wiki/Layouts) para actualizaciones 
 
 [vertical-sep]
 
 ## Force layout
 
-* Let's review the force layout and its functionalities
+* Revisemos el force layout y sus funcionalidades
 
-* Force layouts use simulations of physical forces to arrange elements on the screen
+* Los force layouts simulan fuerzas de la naturaleza para disponer los elementos en una pantalla.
 
-* Force layouts are normally used to make a network graph
+* Se usan mucho para gráficos de redes.
 
 [vertical-sep]
 
 ## Force layout II
 
-* There are two components in network graphs
-    * Nodes: Entities in the dataset
-    * Links: Connections between nodes
+* Existen dos partes en los gráficos de red 
+    * Nodos: Entidades en el dataset
+    * Enlaces: Conexiones entre nodos
 
-* D3 force layout expects us to provide nodes and links separately as arrays of objects
+* El _force layout_ de D3 espera de entrada nodos y enlaces como arrays de objetos separados
 
-* We have to specify what happens in every iteration of the force layout model
+* Debemos especificar que ocurre en cada iteración del modelo del _force layout_.
 
 [vertical-sep]
 
 ## Force layout III
 
-* There are many parameters that we can modify to adapt the visualization to our needs
+* Hay muchos parámetros que podemos variar para adaptar la visualización a nuestros requerimientos
     * linkDistance, charge, gravity, etc.
 
-* Take a look at the [documentation](https://github.com/mbostock/d3/wiki/Force-Layout) for more details on how to tweak the layout
+* Revisad la [documentacion](https://github.com/mbostock/d3/wiki/Force-Layout) para más detalles sobre como parametrizar el layout
 
 [vertical-sep]
 
 ## Force layout IV
 
-* Let's check a simple example
+* Veamos un ejemplo simple
 
 <a target="_blank" href="http://blockbuilder.org/jjelosua/93dd38fba6098391c37b">
-    <img alt="D3 examples" class="img_70" data-src="images/example24.jpg"></img>
+    <img alt="D3 examples" class="img_70" data-src="images/layouts_01_example.jpg"></img>
 </a>
 
-Notice that if we pass the mouse over the text labels it does not create any efect.
+Fijaos que si pasamos el ratón sobre las etiquetas no crea ningún efecto.
 <!-- .element: class="sm_note_med" -->

@@ -13,9 +13,9 @@
     $ python
     ```
 
-![Python console][intro02] <!-- .element: class="img_60" -->
+![Python console][python] <!-- .element: class="img_60" -->
 
-[intro02]: images/intro02.jpg
+[python]: images/localserver_01_python.jpg
 
 [vertical-sep]
 
@@ -27,9 +27,9 @@
     $ python -m SimpleHTTPServer
     ```
 
-![Python SimpleHTTPServer][intro03] <!-- .element: class="img_60" -->
+![Python SimpleHTTPServer][server] <!-- .element: class="img_60" -->
 
-[intro03]: images/intro03.jpg
+[server]: images/localserver_02_server.jpg
 
 [vertical-sep]
 
@@ -37,6 +37,6 @@
 
 * Open a browser and head to localhost:8000 you should see an image like this one
 
-![local server in browser][intro04] <!-- .element: class="img_60" -->
+![local server in browser][browser] <!-- .element: class="img_60" -->
 
-[intro04]: images/intro04.jpg
+[browser]: images/localserver_03_browser.jpg

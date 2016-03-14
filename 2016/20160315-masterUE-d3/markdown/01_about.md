@@ -1,27 +1,27 @@
-# MozFest 2015 Workshop
-### Introduction to D3.js
+# 2016 Master Unidad Editorial 
+### Introducción a D3.js
 
-_[Juan Elosua][blog]_ - _[bit.ly/mozfest_d3][slides]_
+_[Juan Elosua][blog]_ - _[bit.ly/2016_master_d3][slides]_
 
 _[local resources][resources]_
 
 [blog]: http://www.juanelosua.com
-[slides]: http://bit.ly/mozfest_d3
+[slides]: http://bit.ly/2016_master_d3
 [resources]: https://dl.dropboxusercontent.com/u/19188751/introd3.zip
 
 [slide-sep]
 
-## ¿Who am I?
+## ¿Quién soy?
 
 ### [Juan Elosua Tomé][blog] ([@jjelosua][twitter])
 
-Spanish telecommunications engineer that works as a developer specialized in data analysis and visualization. [2015 Knight-Mozilla Fellow][fellow] at [La Nación Data][lndata]
+Ingeniero de Telecomunicaciones que trabaja como desarrollador con experiencia en análisis y visualizaciones de datos. [2015 Knight-Mozilla Fellow][fellow] en [La Nación Data][lndata]
 
-Some projects that I have worked on:
+Algunos proyectos en los que he colaborado:
 * <a target="_blank" href="http://www.espanaenllamas.es">España en Llamas</a>
 * <a target="_blank" href="http://www.elindultometro.es">El indultometro</a>
-* <a target="_blank" href="http://www.lanacion.com.ar/1809205-cayo-el-caudal-de-votos-de-pro-en-el-78-de-las-escuelas">Elecciones CABA 2015</a>
-* <a target="_blank" href="http://www.lanacion.com.ar/elecciones-2015-t50499">Elecciones Argentina 2015</a>
+* <a target="_blank" href="http://www.lanacion.com.ar/1846694-elecciones-2015-mapa-de-resultados-del-ballottage-por-provincia-municipio-y-comuna">Elecciones Argentina 2015 - tiempo real</a>
+* <a target="_blank" href="http://www.lanacion.com.ar/1848689-como-fue-el-resultado-del-ballottage-en-la-escuela-donde-votaste">Elecciones Argentina 2015 - por establecimiento</a>
 
 [blog]: http://www.juanelosua.com
 [twitter]: https://twitter.com/jjelosua
@@ -32,12 +32,12 @@ Some projects that I have worked on:
 
 ### <a target="_blank" href="http://www.espanaenllamas.es">España en Llamas</a>
 
-This was my first project in the data journalism field. After fighting a bit with Spanish public administrations with FOIA requests alongside [civio][civio] a spanish NGO we tried to give context and raise awareness around the forest fires problematic situation in Spain
+Este fue mi primer proyecto de periodismo de datos. Tras un periplo por las administraciones públicas con peticiones de información junto a [civio][civio] intentamos dar contexto y concienciar sobre el problema de los incendios forestales en España
 
 <!-- .element: class="proj_desc"-->
 
 <a target="_blank" href="http://www.espanaenllamas.es">
-    <img alt="España en llamas" class="img_60" data-src="images/about01.jpg"></img>
+    <img alt="España en llamas" class="img_60" data-src="images/about_01_eel.jpg"></img>
 </a>
 
 [civio]: http://civio.es
@@ -46,40 +46,40 @@ This was my first project in the data journalism field. After fighting a bit wit
 
 ### <a target="_blank" href="http://www.elindultometro.es">El indultometro</a>
 
-With [civio][civio] we have compiled, crunched and classified all the information about presidential pardons inside the Spanish Official Journal (BOE) from 1996. The reader can search by crime type, compare annual data and make an informed opinion around the use of this controversial measure by each spanish government.
+En [civio][civio] hemos recopilado, desgranado y clasificado toda la información contenida en el BOE sobre los indultos concedidos en España desde 1996. Busca por tipo de delito, compara datos anuales y valora el uso que cada gobierno ha hecho de ellos
 
 <!-- .element: class="proj_desc"-->
 
 <a target="_blank" href="http://www.elindultometro.es">
-    <img alt="El Indultometro" class="img_60" data-src="images/about02.jpg"></img>
+    <img alt="El Indultometro" class="img_60" data-src="images/about_02_EI.jpg"></img>
 </a>
 
 [civio]: http://civio.es
 
 [vertical-sep]
 
-### <a target="_blank" href="http://www.lanacion.com.ar/1809205-cayo-el-caudal-de-votos-de-pro-en-el-78-de-las-escuelas">Elecciones CABA 2015</a>
+### <a target="_blank" href="http://www.lanacion.com.ar/1846694-elecciones-2015-mapa-de-resultados-del-ballottage-por-provincia-municipio-y-comuna">Elecciones Argentina - Tiempo Real</a>
 
-Already in Argentina and as part of my fellowship year at [La Nación][lanacion] I have workd in a wide variety of elections coverage. This one for Buenos Aires gives the user the ability to draw a custom area where they want to get results from, using leaflet draw plugin [leaflet-draw](https://github.com/Leaflet/Leaflet.draw).
+Ya en Argentina como parte de mi fellowship en [La Nación][lanacion] he colaborado en el seguimiento de las elecciones 2015. Tanto en la visualización de resultados en tiempo real como a posteriori con mayor grado de detalle.
 
 <!-- .element: class="proj_desc"-->
 
-<a target="_blank" href="http://www.lanacion.com.ar/1809205-cayo-el-caudal-de-votos-de-pro-en-el-78-de-las-escuelas">
-    <img alt="Elecciones CABA 2015" class="img_60" data-src="images/about03.jpg"></img>
+<a target="_blank" href="http://www.lanacion.com.ar/1846694-elecciones-2015-mapa-de-resultados-del-ballottage-por-provincia-municipio-y-comuna">
+    <img alt="Elecciones CABA 2015" class="img_60" data-src="images/about_03_arg_live.jpg"></img>
 </a>
 
 [lanacion]: http://www.lanacion.com.ar/
 
 [vertical-sep]
 
-### <a target="_blank" href="http://www.lanacion.com.ar/elecciones-2015-t50499">Argentina presidential elections 2015</a>
+### <a target="_blank" href="http://www.lanacion.com.ar/1848689-como-fue-el-resultado-del-ballottage-en-la-escuela-donde-votaste">Resultados por establecimiento</a>
 
-Continuing with the elections coverage as a Fellow at [La Nación][lanacion] we have developed many news apps to follow live results, congress and senate results as well as detailed results by polling station.
+Otro proyecto como Fellow en [La Nación][lanacion] fue visualizar los resultados de las elecciones al mayor nivel de detalle. Pudiendo el lector customizar el área sobre el que quiere obtener resultados a través del plugin [leaflet-draw](https://github.com/Leaflet/Leaflet.draw).
 
 <!-- .element: class="proj_desc"-->
 
-<a target="_blank" href="http://www.lanacion.com.ar/elecciones-2015-t50499">
-    <img alt="2015 PASO Argentina" class="img_60" data-src="images/about04.jpg"></img>
+<a target="_blank" href="http://www.lanacion.com.ar/1848689-como-fue-el-resultado-del-ballottage-en-la-escuela-donde-votaste">
+    <img alt="2015 PASO Argentina" class="img_60" data-src="images/about_04_arg_detailed.jpg"></img>
 </a>
 
 [lanacion]: http://www.lanacion.com.ar/

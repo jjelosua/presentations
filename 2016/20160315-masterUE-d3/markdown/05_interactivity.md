@@ -1,87 +1,88 @@
-## Interactivity
+## Interacción
 
 [vertical-sep]
 
-* D3 handles the standard javascript events
+* D3 maneja los eventos javascript estándar
     * Mouseover, click, mouseout, ...
 
-* D3's _on()_ method is a handy way to quickly bind event listeners to D3 selections
-    * It takes two arguments: The event name and an anonymous function to create the desired behavior
+* D3 ofrece el método _on()_ para vincular eventos a selecciones D3
+    * Recibe dos argumentos: El nombre del evento y una función _callback_ para realizar las acciones deseadas
 
-* Making a visualization interactive requires two steps
-    * Binding event listeners
-    * Defining the behavior
+* Crear una visualización interactiva requiere de dos pasos
+    * Vincularse a los eventos de entrada del usuario.
+    * Definir el comportamiento para cada uno de ellos.
 
 [vertical-sep]
 
-## Shading on mouseover
+## Cambio de color en mouseover
 
 <a target="_blank" href="http://blockbuilder.org/jjelosua/0a35a22e85371bebb7ba">
-    <img alt="D3 examples" class="img_70" data-src="images/example21.jpg"></img>
+    <img alt="D3 examples" class="img_70" data-src="images/interactivity_01_example.jpg"></img>
 </a>
 
-Notice that if we pass the mouse over the text labels it does not create any efect.
+Fijaos que si pasamos el ratón por los textos no se crea el efecto.
 <!-- .element: class="sm_note_med" -->
 
 [vertical-sep]
 
-## Pro tip
+## Pro tip - pointer-events
 
-* Did you notice that if we pass the mouse over the text it does not change colors?
-
-* You can change that with CSS pointer-events property
+* Esto se puede resolver por CSS
 
     ```
     svg text {pointer-events: none;}
     ```
 
-[vertical-sep]
-
-## Sorting
-
-* Interactivity is great to allow the reader to search for different views on the data
-
-* The ability to sort data is extremely important
-    * D3 makes it very easy to sort elements
+* Explicación: Al no recibir eventos el texto SVG entonces el mouseover lo pasa al elemento que está debajo
+<!-- .element: class="sm_note_med" --> 
 
 [vertical-sep]
 
-## Click to sort
+## Ordenación
+
+* La interactividad permite al lector buscar diferentes puntos de vista de los datos
+
+* La capacidad de ordenar es muy importante
+    * D3 permite ordenar de manera sencilla
+
+[vertical-sep]
+
+## Click para ordenar
 
 <a target="_blank" href="http://blockbuilder.org/jjelosua/1cea913412fc46e99aef">
-    <img alt="D3 examples" class="img_70" data-src="images/example22.jpg"></img>
+    <img alt="D3 examples" class="img_70" data-src="images/interactivity_02_example.jpg"></img>
 </a>
 
-If you click on any of the bars it will reorder descending and ascending alternatively
+Si hacemos click en cualquier barra, se reordenarán en orden ascendente o descendente alternativamente
 <!-- .element: class="sm_note_med" -->
 
 [vertical-sep]
 
 ## Tooltips
 
-* In many cases, it's not necessary to label every individual data value in the default view
+* En muchos casos no es necesario etiquetar cada dato en la vista inicial.
 
-* But that level of detail should still be accessible to users
+* Pero dicho nivel de detalle debería ser accedido por los lectores.
 
-* That's where tooltips come in
+* Ahí es donde entran en escena los tooltips.
 
 [vertical-sep]
 
 ## Tooltips II
 
-* One way to create tooltips is with HTML divs
+* Podemos crear tooltips es con _divs_ HTML
 
-* I like to create a hidden div in my HTML file
-    * When a element detects a mouseover
-    * Populate the tooltip with the corresponding data
-    * Position the tooltip
-    * Show the tooltip
-    * We need to hide again the tooltip on mouseout
+* A mi me gusta crear un _div_ oculto en HTML
+    * Cuando un elemento detecta el _mouseover_
+    * Rellenamos el tooltip con la información deseada
+    * Posicionamos el tooltip
+    * Mostramos el tooltip
+    * Lo volvemos a esconder en el _mouseout_
 
 [vertical-sep]
 
 ## Tooltips III
 
 <a target="_blank" href="http://blockbuilder.org/jjelosua/9c10c82154508fb4ce96">
-    <img alt="D3 examples" class="img_70" data-src="images/example23.jpg"></img>
+    <img alt="D3 examples" class="img_70" data-src="images/interactivity_03_example.jpg"></img>
 </a>

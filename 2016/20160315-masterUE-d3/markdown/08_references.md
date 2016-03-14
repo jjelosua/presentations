@@ -1,26 +1,26 @@
-## References
+## Referencias
 
 [vertical-sep]
 
-* [D3 documentation wiki](https://github.com/mbostock/d3/wiki): tutorials, talks and the API reference.
+* [D3 wiki](https://github.com/mbostock/d3/wiki): tutoriales, charlas y la referencia de la API.
 
-* [D3 examples gallery](https://github.com/mbostock/d3/wiki/Gallery): An amazing collection of D3 visualizations with their final result and the code to generate them.
+* [Galería ejemplos D3](https://github.com/mbostock/d3/wiki/Gallery): Una colección de visualizaciones hechas en d3 impresionante. Resultado final y el código que la genera.
 
-* There is a very active group of D3 experts on [stackoverflow](http://stackoverflow.com/questions/tagged/d3.js), even Mike Bostock, D3js creator, answers many of the questions
+* Hay un grupo muy activo de expertos en D3 en [stackoverflow](http://stackoverflow.com/questions/tagged/d3.js), incluso Mike Bostock, el creador de D3js, contesta a muchas de las preguntas
 
 [vertical-sep]
 
-* [nvd3](http://nvd3.org/): nice library for standard charts, it abstracts us from the burden of axis, ticks, scales, ...
+* [nvd3](http://nvd3.org/): buena librería para gráficos estándar, nos abstrae de generar ejes, ticks, escalas, etc.
 
-* Nice [video](https://vimeo.com/29458354) of mike bostock talking about the force layout
+* Buen [video](https://vimeo.com/29458354) de Mike Bostock hablando del force layout.
 
 [slide-sep]
 
-## Thank you!!
+## Gracias!!
 
-Did we make it, fewww? 
+Seguimos despiertos?? Bravoooo!!!
 
-Any Questions?
+Alguna pregunta?
 
 Juan Elosua ([@jjelosua][twitter])
 
@@ -28,8 +28,6 @@ Juan Elosua ([@jjelosua][twitter])
 
 <br><br>
 
-The examples used in this presentation come from the book _[Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/index.html)_ written by Scott Murray and available for free reading online.
+Los ejemplos de esta presentación se basan en el libro [Interactive Data Visualization](http://chimera.labs.oreilly.com/books/1230000000345/index.html) escrito por Scott Murray y de lectura gratuita online.
 
 <!-- .element: class="sm_note_left" -->
-
-

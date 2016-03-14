@@ -1,10 +1,10 @@
 # Expresiones regulares
 ### Magia negra a tu servicio..._sh{2,}_
 
-_[Juan Elosua][blog]_ - _[bit.ly/2016_master_regex][slides]_
+_[Juan Elosua][blog]_ - _[bit.ly/2016_master_regexp][slides]_
 
 [blog]: http://www.juanelosua.com
-[slides]: http://bit.ly/2016_master_regex
+[slides]: http://bit.ly/2016_master_regexp
 
 Note: https://juanelosua.titanpad.com/master-regexp
 
