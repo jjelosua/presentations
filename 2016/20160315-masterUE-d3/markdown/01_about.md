@@ -1,13 +1,11 @@
-# 2016 Master Unidad Editorial 
+# 2016 Master <br> Unidad Editorial 
 ### Introducción a D3.js
 
 _[Juan Elosua][blog]_ - _[bit.ly/2016_master_d3][slides]_
 
-_[local resources][resources]_
-
 [blog]: http://www.juanelosua.com
 [slides]: http://bit.ly/2016_master_d3
-[resources]: https://dl.dropboxusercontent.com/u/19188751/introd3.zip
+
 
 [slide-sep]
 
