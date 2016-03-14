@@ -1,22 +1,22 @@
-## Summary
+## Resumen
 
 [vertical-sep]
 
-* D3 is a powerful data visualization library
+* D3 es una potente librería de visualización.
 
-* D3 allows you to bind arbitrary data to a Document Object Model (DOM), and then apply data-driven
+* D3 permite asociar datos con el Document Object Model (DOM).
 
-* D3 avoids proprietary representation, exposing the full capabilities of web standards such as CSS3, HTML5 and SVG
+* D3 no genera una representación propietaria sino que expone las capacidades de los estándares web como CSS3, HTML5 y SVG.
 
 [vertical-sep]
 
-## Goind back to our goals
+## Volviendo a nuestros objetivos
 
-* Understand how d3 selections work
+* Entender como funcionan las selecciones en D3
     * enter()
     * update
     * exit()
 
-* Understand the power of d3.scales
+* Entender la potencia de las escalas
 
-* Understand how transitions work
+* Entender como funcionan las transiciones y como ayudan a comunicar cambios en los datos.
