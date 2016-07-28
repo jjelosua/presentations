@@ -10,9 +10,9 @@ This repo is designed to hold various presentations for training,
 
 We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push the presentations output to github pages
 
-        
+
         $ ghp-import -p -m "hhba" contents
-        
+
 
 ### 2015
 * [Regular expressions for the JPD2015 conference - MAD][jpd2015-1]
@@ -28,10 +28,11 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 ### 2016
 * [Regular expressions for 2016 Master UE - MAD][master2016-1]
 * [Intro to d3 for 2016 Master UE - MAD][master2016-2]
+* [Timesavers session - SRCCON][srccon2016]
 
 ## Acknowledgements
 
-* To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy. 
+* To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy.
 
 [jpd2015-1]: http://www.juanelosua.com/presentations/2015/20150604-jpd2015-regexp/
 [jpd2015-2]: http://www.juanelosua.com/presentations/2015/20150605-jpd2015-coloquio/
@@ -44,3 +45,4 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 [mozfest2]: http://www.juanelosua.com/presentations/2015/20151107-mozfest-d3/
 [master2016-1]: http://www.juanelosua.com/presentations/2016/20160314-masterUE-regexp/
 [master2016-2]: http://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
+[srccon2016]: http://www.juanelosua.com/presentations/2016/20160729-srccon-timesavers/

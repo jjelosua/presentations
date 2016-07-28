@@ -7,7 +7,7 @@ _[Slides][slides]_
 
 [jtwitter]: https://twitter.com/jjelosua
 [mtwitter]: https://twitter.com/malonfe
-[slides]: http://www.npr.org/
+[slides]: https://dl.dropboxusercontent.com/u/19188751/training_resources/2016/2016_SRCCON_TimeSavers.pdf
 
 [slide-sep]
 
