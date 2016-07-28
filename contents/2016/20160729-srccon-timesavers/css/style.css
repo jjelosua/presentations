@@ -19,6 +19,18 @@
     /*text-align: left;*/
 }
 
+.reveal .float_left {
+    float: left;
+}
+
+.reveal .float_right {
+    float: right;
+}
+
+.reveal .display_block {
+    display: block;
+}
+
 
 .reveal .proj_desc {
     font-size: 0.8em;
