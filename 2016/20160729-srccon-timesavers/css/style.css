@@ -78,3 +78,10 @@
     max-width: 150%;
     max-height: 150%;
 }
+
+.reveal .small_italic_text {
+    font-style: italic;
+    font-size: 0.7em;
+    margin: 0px;
+    /*text-align: left;*/
+}

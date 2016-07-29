@@ -21,9 +21,9 @@
 
 ## First iteration (20 min)
 
-* It will be longer and each group will have an icebreaker challenge on their table.
+* It will be longer and each group will have an _ICEBREAKER_ challenge on their table.
 
-* **The icebreaker is not meant to be the focus of the discussion during the first iteration**, but just to serve as a firestarter
+* **icebreakers are not meant to be the focus of the discussion during the first iteration**, but just to serve as a firestarter
 
 * The group will brainstorm to find challenges and/or solutions/tools to discuss and share
 
@@ -81,7 +81,7 @@
 
 * A member of the team reads the new arrived challenges out loud
     * Try to solve those
-    * Get inspired and add new challenges or solutions
+    * Get inspired and add new challenges/solutions or tools
 
 [vertical-sep]
 
@@ -101,24 +101,7 @@
 
 [vertical-sep]
 
-**Subsequent iteration - Pass solved challenges **
-
-![Next Iteration][flow10] <!-- .element: class="img_80" -->
-
-[flow10]: images/flow10.jpg
-
-[vertical-sep]
-
-**Subsequent iteration - Pass also unsolved challenges **
-
-![Next Iteration][flow11] <!-- .element: class="img_80" -->
-
-[flow11]: images/flow11.jpg
-
-[vertical-sep]
-
 # REPEAT
-
 
 [vertical-sep]
 
@@ -136,7 +119,7 @@
 
 [flow11]: images/flow11.jpg
 
-[slide-sep]
+[vertical-sep]
 
 # Wrapup phase
 
