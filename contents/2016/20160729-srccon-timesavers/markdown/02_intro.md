@@ -16,7 +16,7 @@
 ## How?
 
 * Brainstorming in groups:
-    * Share your _CHALLENGES_
+    * Write down your _CHALLENGES_
     * Find _SOLUTIONS_ together
 
 * Do you use a _TOOL_ that you feel could be useful to others?
