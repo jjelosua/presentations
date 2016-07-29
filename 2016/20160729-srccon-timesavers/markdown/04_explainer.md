@@ -19,7 +19,7 @@
 
 [vertical-sep]
 
-## First iteration (20 min)
+## First iteration (15 min)
 
 * It will be longer and each group will have an _ICEBREAKER_ challenge on their table.
 
@@ -74,6 +74,12 @@
 ![First Iteration][flow07] <!-- .element: class="img_80" -->
 
 [flow07]: images/flow07.jpg
+
+[vertical-sep]
+
+## Let's share what we are doing (5 min)
+
+* Cherry pick some groups that want to share their progress
 
 [vertical-sep]
 
