@@ -15,7 +15,7 @@
 
 [slide-sep]
 
-# 20 minutes gone!
+# 15 minutes gone!
 
 ## Pass your unanswered challenges to the next group
 
