@@ -30,6 +30,9 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 * [Intro to d3 for 2016 Master UE - MAD][master2016-2]
 * [Timesavers session - SRCCON][srccon2016]
 
+### 2017
+* [Pym.js lazyload - Washington D.C.][skillshare-npr-1]
+
 ## Acknowledgements
 
 * To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy.
@@ -46,3 +49,5 @@ We use [ghp-import](https://github.com/davisp/ghp-import) to generate and push t
 [master2016-1]: http://www.juanelosua.com/presentations/2016/20160314-masterUE-regexp/
 [master2016-2]: http://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
 [srccon2016]: http://www.juanelosua.com/presentations/2016/20160729-srccon-timesavers/
+[skillshare-npr-1]: http://www.juanelosua.com/presentations/2017/20170723-pym-lazyload/
+
