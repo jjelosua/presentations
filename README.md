@@ -3,8 +3,7 @@ Presentations made with reveal.js
 
 ## Introduction
 
-This repo is designed to hold various presentations for training,
- talks and conferences purposes
+This repo is designed to hold various presentations for training, talks and conferences purposes
 
 ## gh-pages
 
