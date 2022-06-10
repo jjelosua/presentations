@@ -43,7 +43,7 @@ gulp.task('watch', function () {
 });
 
 // development server reload modified files
-gulp.task('server', ['connect', 'watch']);
+gulp.task('server',  gulp.series('connect', 'watch'));
 
 // default task
-gulp.task('default', ['server']);
+gulp.task('default',  gulp.series('server'));
