@@ -31,17 +31,17 @@ This repo is designed to hold various presentations for training,
 
 * To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy. 
 
-[jpd2015-1]: http://www.juanelosua.com/presentations/2015/20150604-jpd2015-regexp/
-[jpd2015-2]: http://www.juanelosua.com/presentations/2015/20150605-jpd2015-coloquio/
-[jpd2015-3]: http://www.juanelosua.com/presentations/2015/20150606-jpd2015-regexp/
-[hhba2015-1]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-keynote/
-[hhba2015-2]: http://www.juanelosua.com/presentations/2015/20150828-hhba2015-regexp/
-[masterLN2015]: http://www.juanelosua.com/presentations/2015/20150916-masterLN-perspectiva/
-[LNtraining2015_1]: http://www.juanelosua.com/presentations/2015/20150923-lanacion-refine/
-[mozfest1]: http://www.juanelosua.com/presentations/2015/20151106-mozfest-sciencefair/
-[mozfest2]: http://www.juanelosua.com/presentations/2015/20151107-mozfest-d3/
-[master2016-1]: http://www.juanelosua.com/presentations/2016/20160314-masterUE-regexp/
-[master2016-2]: http://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
-[skillshare-npr-1]: http://www.juanelosua.com/presentations/2017/20170723-pym-lazyload/
-[keynote-mpvd-2022]: http://www.juanelosua.com/presentations/2022/20220613-mpvd-keynote/
+[jpd2015-1]: https://www.juanelosua.com/presentations/2015/20150604-jpd2015-regexp/
+[jpd2015-2]: https://www.juanelosua.com/presentations/2015/20150605-jpd2015-coloquio/
+[jpd2015-3]: https://www.juanelosua.com/presentations/2015/20150606-jpd2015-regexp/
+[hhba2015-1]: https://www.juanelosua.com/presentations/2015/20150828-hhba2015-keynote/
+[hhba2015-2]: https://www.juanelosua.com/presentations/2015/20150828-hhba2015-regexp/
+[masterLN2015]: https://www.juanelosua.com/presentations/2015/20150916-masterLN-perspectiva/
+[LNtraining2015_1]: https://www.juanelosua.com/presentations/2015/20150923-lanacion-refine/
+[mozfest1]: https://www.juanelosua.com/presentations/2015/20151106-mozfest-sciencefair/
+[mozfest2]: https://www.juanelosua.com/presentations/2015/20151107-mozfest-d3/
+[master2016-1]: https://www.juanelosua.com/presentations/2016/20160314-masterUE-regexp/
+[master2016-2]: https://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
+[skillshare-npr-1]: https://www.juanelosua.com/presentations/2017/20170723-pym-lazyload/
+[keynote-mpvd-2022]: https://www.juanelosua.com/presentations/2022/20220613-mpvd-keynote/
 
