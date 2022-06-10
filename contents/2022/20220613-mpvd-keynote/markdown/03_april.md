@@ -23,7 +23,7 @@ Recibimos los datos de prueba el viernes 24 de Abril, dos días antes de las ele
 
 #### Elecciones PASO CABA <br> Escuela por escuela
 
-![Mapa resultados por escuela PASO CABA][paso_caba_poll_img] <!-- .element: class="img_70" -->
+![Mapa resultados por escuela PASO CABA][paso_caba_poll_img] <!-- .element: class="img_60" -->
 
 [paso_caba_poll_img]: images/20150426_PASO_CABA_POLLING.jpg
 
