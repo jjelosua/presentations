@@ -21,6 +21,12 @@ This repo is designed to hold various presentations for training,
 * [Regular expressions for 2016 Master UE - MAD][master2016-1]
 * [Intro to d3 for 2016 Master UE - MAD][master2016-2]
 
+### 2017
+* [Pym.js lazyload - Washington D.C.][skillshare-npr-1]
+
+### 2022
+* [Keynote MPVD - Alcalá][keynote-mpvd-2022]
+
 ## Acknowledgements
 
 * To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy. 
@@ -36,4 +42,6 @@ This repo is designed to hold various presentations for training,
 [mozfest2]: http://www.juanelosua.com/presentations/2015/20151107-mozfest-d3/
 [master2016-1]: http://www.juanelosua.com/presentations/2016/20160314-masterUE-regexp/
 [master2016-2]: http://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
+[skillshare-npr-1]: http://www.juanelosua.com/presentations/2017/20170723-pym-lazyload/
+[keynote-mpvd-2022]: http://www.juanelosua.com/presentations/2022/20220613-mpvd-keynote/
 
