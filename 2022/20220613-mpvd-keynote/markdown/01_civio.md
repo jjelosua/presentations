@@ -30,8 +30,9 @@ Desde aquí dar de nuevo mi más sincera enhorabuena al equipo de Civio por su i
 
 Como ejemplo este incendio de octubre de 2011 que formó parte del origen de la creación del proyecto.
 
-![2011: ejemplo incendio Ourense][eel_ourense_img] <!-- .element: class="img_60" -->
+[![2011: ejemplo incendio Ourense][eel_ourense_img] <!-- .element: class="img_60" -->][eel]<!-- .element: target="_blank" -->
 
+[eel]: https://civio.es/espana-en-llamas/mapa-de-incendios-forestales/#explora
 [eel_ourense_img]: images/eel_ourense.png
 
 [vertical-sep]
