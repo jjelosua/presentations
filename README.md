@@ -27,6 +27,9 @@ This repo is designed to hold various presentations for training,
 ### 2022
 * [Keynote MPVD - Alcalá][keynote-mpvd-2022]
 
+### 2023
+* [Keynote MPVD - Alcalá][keynote-mpvd-2023]
+
 ## Acknowledgements
 
 * To Hakim El Hattab for creating [reveal.js](Hakim El Hattab) and making our life this easy. 
@@ -44,4 +47,5 @@ This repo is designed to hold various presentations for training,
 [master2016-2]: https://www.juanelosua.com/presentations/2016/20160315-masterUE-d3/
 [skillshare-npr-1]: https://www.juanelosua.com/presentations/2017/20170723-pym-lazyload/
 [keynote-mpvd-2022]: https://www.juanelosua.com/presentations/2022/20220613-mpvd-keynote/
+[keynote-mpvd-2023]: https://www.juanelosua.com/presentations/2023/20230707-mpvd-keynote/
 
