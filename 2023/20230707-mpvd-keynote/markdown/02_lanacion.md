@@ -39,3 +39,14 @@ He pensado que sería interesante compartir las experiencias que hemos vivido du
 
 [evo_img]: images/evolucion.jpg
 [evo_map_img]: images/evolucion_map.jpg
+
+[slide-sep]
+
+### Lecciones No aprendidas
+
+* Haz un vídeo de todos los trabajos de visualización y funcionalidades para que puedes mostrarlos a posteriori si se descontinúa, migra o abandona un servicio.
+
+![Llora][cry_img] <!-- .element: class="img_60" -->
+
+[cry_img]: images/cry.png
+
