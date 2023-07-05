@@ -1,10 +1,10 @@
 # Englishman in NY
 ### Experiencias de un ingeniero en periodismo.
 
-_[Juan Elosua][mastodon]<!-- .element: target="_blank" -->_ - _[bit.ly/MPVD_jet][slides]<!-- .element: target="_blank" -->_
+_[Juan Elosua][mastodon]<!-- .element: target="_blank" -->_ - _[bit.ly/MPVD_jet_2023][slides]<!-- .element: target="_blank" -->_
 
 [mastodon]: https://mastodon.social/@jjelosua
-[slides]: https://bit.ly/MPVD_jet
+[slides]: https://bit.ly/MPVD_jet_2023
 
 
 [slide-sep]
